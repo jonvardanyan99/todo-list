@@ -1,11 +1,8 @@
-body {
-    padding: 50px;
-    background-color: #66ccff;
-    font-family: sans-serif;
+* {
+  box-sizing: border-box;
 }
 
-#root {
-    width: 100%;
-    display: flex;
-    justify-content: center;
+body {
+  font-family: sans-serif;
+  background-color: #66ccff;
 }
